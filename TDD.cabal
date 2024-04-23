@@ -26,6 +26,7 @@ source-repository head
 library
   exposed-modules:
       BinarySearchTree
+      Dictionary
       Lib
   other-modules:
       Paths_TDD
